@@ -11,8 +11,16 @@ LICENSE : [MIT](./license.md)
 
 
 ### Содержание :
-1. что-то
+1. [git status](./status.md)
 2. [git add](./add.md)
+3. [git commit]()
+4. [git reset]()
+5. [git branch]()
+6. [git checkout]()
+7. [git merge]()
+8. [git log]()
+9. [git push]()
+10. [git init]()
 ----
 GIT logo by Jason Long - https://git-scm.com/downloads/logos,
 
