@@ -6,7 +6,7 @@
 
 
 ````bash=
-git comit
+git commit
 ````
 
 ![](./assets/GIT-Commit-Flow.png)
