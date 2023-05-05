@@ -8,3 +8,5 @@
 ````bash=
 git comit
 ````
+
+![](./assets/GIT-Commit-Flow.png)

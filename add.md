@@ -7,3 +7,5 @@
 `````bash=
 git add .
 `````
+
+![](./assets/git_add.png)

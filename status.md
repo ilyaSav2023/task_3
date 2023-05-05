@@ -8,3 +8,5 @@
 ````bash=
 git status
 ````
+
+![](./assets/git%20status.png)
